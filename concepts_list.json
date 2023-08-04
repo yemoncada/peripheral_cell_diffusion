@@ -1,0 +1,8 @@
+[
+    {
+        "instance_prompt": "photo of basophil blood cell",
+        "class_prompt": "photo of blood cell",
+        "instance_data_dir": "data/basophil",
+        "class_data_dir": "data/blood cell"
+    }
+]
